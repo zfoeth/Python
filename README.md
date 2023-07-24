@@ -13,7 +13,7 @@ I do not consider myself as a programmer. I create these little programs as expe
 master
 
 # My Best Python Examples for education 
-master
+
 
 
 :email: craig@geekcomputers.co.uk.
